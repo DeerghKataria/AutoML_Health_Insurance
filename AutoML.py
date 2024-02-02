@@ -1,5 +1,4 @@
 # 1. Import Necessary Libraries:
-
 import pandas as pd
 import h2o
 from h2o.automl import H2OAutoML
@@ -26,27 +25,19 @@ print("Test set size:", test.shape[0])
 # Shutdown H2O
 h2o.shutdown()
 
-
-# 3. Initialize H2O and Start AutoML:
+# 3. Initialize H2O and Print Rapids Expression:
 
 # Initialize H2O
 h2o.init()
 
 # Convert pandas DataFrames to H2O Frames
 train_h2o = h2o.H2OFrame(train)
+print("Training columns:", train_h2o.col_names)
+
 valid_h2o = h2o.H2OFrame(valid)
+print("Validation columns:", valid_h2o.col_names)
 test_h2o = h2o.H2OFrame(test)
 
-# Priting Column Names
-print("Training columns:", train_h2o.col_names)
-print("Validation columns:", valid_h2o.col_names)
-
-# # Identify the target column
-# y = "cost"
-
-# # Run AutoML with specified metrics and time constraints
-# aml = H2OAutoML(max_runtime_secs=3600, seed=1)
-# aml.train(y=y, training_frame=train_h2o, validation_frame=valid_h2o)
-
-
-
+# Print Rapids expression for training frame
+train_rapids_expr = train_h2o.as_rapids()
+print("Rapids expression for training frame:", train_rapids_expr)
