@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/deerghkataria/My%20Drive%20%28deerghkataria%40gmail.com%29/0.%20Inbox/GitHub%20Codes/AutoML%20Project/mlruns/573807687060737705/75fe7df893674628b2e540c8b02591cd/artifacts
+end_time: 1706916553485
+entry_point_name: ''
+experiment_id: '573807687060737705'
+lifecycle_stage: active
+run_id: 75fe7df893674628b2e540c8b02591cd
+run_name: Dummy Regressor
+run_uuid: 75fe7df893674628b2e540c8b02591cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706916553455
+status: 3
+tags: []
+user_id: deerghkataria

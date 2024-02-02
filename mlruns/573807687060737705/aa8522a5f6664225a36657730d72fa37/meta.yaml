@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/deerghkataria/My%20Drive%20%28deerghkataria%40gmail.com%29/0.%20Inbox/GitHub%20Codes/AutoML%20Project/mlruns/573807687060737705/aa8522a5f6664225a36657730d72fa37/artifacts
+end_time: 1706916552317
+entry_point_name: ''
+experiment_id: '573807687060737705'
+lifecycle_stage: active
+run_id: aa8522a5f6664225a36657730d72fa37
+run_name: AdaBoost Regressor
+run_uuid: aa8522a5f6664225a36657730d72fa37
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706916552291
+status: 3
+tags: []
+user_id: deerghkataria

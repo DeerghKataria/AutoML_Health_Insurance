@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/deerghkataria/My%20Drive%20%28deerghkataria%40gmail.com%29/0.%20Inbox/GitHub%20Codes/AutoML%20Project/mlruns/573807687060737705/143b9653b7f14f8480b2699c82dac6f8/artifacts
+end_time: 1706916551990
+entry_point_name: ''
+experiment_id: '573807687060737705'
+lifecycle_stage: active
+run_id: 143b9653b7f14f8480b2699c82dac6f8
+run_name: Gradient Boosting Regressor
+run_uuid: 143b9653b7f14f8480b2699c82dac6f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706916551734
+status: 3
+tags: []
+user_id: deerghkataria

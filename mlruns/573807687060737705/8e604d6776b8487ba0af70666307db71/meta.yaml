@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/deerghkataria/My%20Drive%20%28deerghkataria%40gmail.com%29/0.%20Inbox/GitHub%20Codes/AutoML%20Project/mlruns/573807687060737705/8e604d6776b8487ba0af70666307db71/artifacts
+end_time: 1706916552397
+entry_point_name: ''
+experiment_id: '573807687060737705'
+lifecycle_stage: active
+run_id: 8e604d6776b8487ba0af70666307db71
+run_name: K Neighbors Regressor
+run_uuid: 8e604d6776b8487ba0af70666307db71
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706916552372
+status: 3
+tags: []
+user_id: deerghkataria

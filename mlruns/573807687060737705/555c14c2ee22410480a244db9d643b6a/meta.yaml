@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/deerghkataria/My%20Drive%20%28deerghkataria%40gmail.com%29/0.%20Inbox/GitHub%20Codes/AutoML%20Project/mlruns/573807687060737705/555c14c2ee22410480a244db9d643b6a/artifacts
+end_time: 1706916552720
+entry_point_name: ''
+experiment_id: '573807687060737705'
+lifecycle_stage: active
+run_id: 555c14c2ee22410480a244db9d643b6a
+run_name: Linear Regression
+run_uuid: 555c14c2ee22410480a244db9d643b6a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706916552695
+status: 3
+tags: []
+user_id: deerghkataria
