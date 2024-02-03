@@ -3,6 +3,10 @@
 Welcome to the AutoML Health Insurance Cost Prediction Regression project! This repository focuses on utilizing Automated Machine Learning (AutoML) techniques to predict health insurance costs. The primary goal is to streamline the machine learning model development process, making it accessible and efficient for users with varying levels of expertise.
 
 ## Files Overview
+This repository mainly contains 2 folders i.e. `Dataset Generation` and `Original Dataset`
+`Dataset Generation` - It contains files to generate synthetic dataset. 
+`Original Dataset` - It contains the original dataset that has been used all across the project.
+
 1. `dataset_generator.py`
 The dataset_generator.py file is a Python script that leverages the power of pandas and numpy to create a synthetic dataset named life_insurance_data.csv. This dataset consists of 10,000 rows and has been exclusively generated for this project, providing a controlled environment for experimentation and testing.
 
@@ -18,3 +22,6 @@ To get started, follow these steps:
 - `Run dataset_generator.py` to create the synthetic dataset (life_insurance_data.csv).
 - Utilize the insurance.csv file for real-world data exploration and model training.
 - Open and execute the AutoML.ipynb Jupyter Notebook to navigate through the AutoML process.
+
+# Authors
+Deergh Kataria: https://github.com/DeerghKataria
