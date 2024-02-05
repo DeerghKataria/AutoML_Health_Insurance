@@ -19,9 +19,9 @@ The AutoML.ipynb file is the main Jupyter Notebook encapsulating all the essenti
 ## Instructions
 To get started, follow these steps:
 
-- `Run dataset_generator.py` to create the synthetic dataset (life_insurance_data.csv).
-- Utilize the insurance.csv file for real-world data exploration and model training.
-- Open and execute the AutoML.ipynb Jupyter Notebook to navigate through the AutoML process.
+1. `Run dataset_generator.py` to create the synthetic dataset (`life_insurance_data.csv`).
+2. Utilize the `insurance.csv` file for real-world data exploration and model training.
+3. Open and execute the `AutoML.ipynb` Jupyter Notebook to navigate through the AutoML process.
 
 # Authors
 Deergh Kataria: https://github.com/DeerghKataria
