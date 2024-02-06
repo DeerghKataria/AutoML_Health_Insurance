@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/deerghkataria/My%20Drive%20%28deerghkataria%40gmail.com%29/0.%20Inbox/GitHub%20Codes/AutoML%20Project/mlruns/573807687060737705/0ba86e3805884ed6bb9f502bb7203ebb/artifacts
+end_time: 1707245971845
+entry_point_name: ''
+experiment_id: '573807687060737705'
+lifecycle_stage: active
+run_id: 0ba86e3805884ed6bb9f502bb7203ebb
+run_name: Lasso Least Angle Regression
+run_uuid: 0ba86e3805884ed6bb9f502bb7203ebb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707245971813
+status: 3
+tags: []
+user_id: deerghkataria

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/deerghkataria/My%20Drive%20%28deerghkataria%40gmail.com%29/0.%20Inbox/GitHub%20Codes/AutoML%20Project/mlruns/573807687060737705/e864f7cb467244b198cf7979b593fb29/artifacts
+end_time: 1707245971081
+entry_point_name: ''
+experiment_id: '573807687060737705'
+lifecycle_stage: active
+run_id: e864f7cb467244b198cf7979b593fb29
+run_name: Light Gradient Boosting Machine
+run_uuid: e864f7cb467244b198cf7979b593fb29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707245971051
+status: 3
+tags: []
+user_id: deerghkataria
