@@ -1,4 +1,8 @@
 The following files contains the list of dependencies that are to be fulfilled:
 
-!pip install h2o
 pip3 install pandas
+pip3 install matplotlib
+pip3 install pycaret
+pip3 install mlflow
+pip3 install seaborn
+
